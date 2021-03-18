@@ -17,7 +17,7 @@ Slightly improved Bosco mod for Deep Rock Galactic based on [Better Bosco](https
 * Decreased response time (targeting, grabber/leech rescue, etc).
 
 # Download
-Download from the releases, the repo is just the unpacked PAK and some build scripts.
+Download from the [releases](https://github.com/haxwithaxe/drg-mod-limitedly_better_bosco/releases), the repo is just the unpacked PAK and some build scripts.
 
 # Build and depoly
 1. Create a `config.bat` based on `example-config.bat`.

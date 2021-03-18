@@ -5,7 +5,7 @@ Slightly improved Bosco mod for Deep Rock Galactic based on [Better Bosco](https
 * 11 revives.
 * Digs like a driller.
   * Mining Expert mod supercharges digging speed.
-* Better Light Intensity upgrade.
+* Better light.
 * Carries faster.
 * Roughly the same DPS as stock Bosco.
   * Increased attack rate (handles things like swarmers slightly better).
@@ -15,3 +15,11 @@ Slightly improved Bosco mod for Deep Rock Galactic based on [Better Bosco](https
 * Minimum of 3 rockets.
 * Larger engagement range.
 * Decreased response time (targeting, grabber/leech rescue, etc).
+
+# Download
+Download from the releases, the repo is just the unpacked PAK and some build scripts.
+
+# Build and depoly
+1. Create a `config.bat` based on `example-config.bat`.
+1. Run `pack.bat`.
+1. Run `deploy.bat`. 

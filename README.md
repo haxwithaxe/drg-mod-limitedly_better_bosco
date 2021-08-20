@@ -2,7 +2,7 @@
 Slightly improved Bosco mod for Deep Rock Galactic based on [Better Bosco](https://github.com/ArcticEcho/DRG-Mods/blob/main/Gameplay/Unbalanced/Other/README.md#better-bosco---v10) and [Infinitely Better Bosco](https://github.com/ArcticEcho/DRG-Mods/blob/main/Gameplay/Unbalanced/Other/README.md#infinitely-better-bosco---v10).
 
 # Features
-* 11 revives.
+* Maximum 9 revives.
 * Digs like a driller.
   * Mining Expert mod supercharges digging speed.
 * Better light.
